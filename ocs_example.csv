@@ -1,0 +1,4 @@
+oc_number,fecha,proveedor_rfc,proveedor_nombre,item_code,descripcion,unidad,cantidad,precio_unitario,impuesto_pct,moneda,centro_costo,proyecto_id
+OC-2025-001,2025-08-20,ABCD010101XXX,Comercial SA de CV,CMX-001,Concreto premezclado,m3,50,1200,16,MXN,OBRA-A,PROY-001
+OC-2025-002,2025-08-21,HLTI990909ZZZ,Hilti Mexico,HLT-ANCL,Anclaje mecánico,pza,200,25,0,MXN,OBRA-A,PROY-001
+OC-2025-003,2025-08-22,TRNM070707YYY,Ternium,VAR-38,Varilla 3/8,ton,5,14500,16,MXN,OBRA-A,PROY-001
